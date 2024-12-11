@@ -1,6 +1,9 @@
 # Human Survival Simulator
 
-![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/indra87g/human-survival-simulator/main.py?label=Total%20Downloads&style=for-the-badge)
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/indra87g/hss/src/game/player.py?label=Total%20Downloads&style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![GitHub contributors](https://img.shields.io/github/contributors/indra87g/hss)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/indra87g/hss)
 
 [Code of Conduct](src/docs/code_of_conduct.md)
 [Changelog](src/docs/changelog.md)
