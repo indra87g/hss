@@ -1,0 +1,9 @@
+# Python directories/files
+/venv
+/**/**/__pycache__
+poetry.lock
+
+# Custom directories/files
+/site
+flake8-report.txt
+savegame.json
