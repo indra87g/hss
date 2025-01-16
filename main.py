@@ -83,7 +83,7 @@ def main(player):
         display_inventory(player)
         next_turn(player, check_survive=False)
     elif choice == 'exit':
-        exit()
+        return
     else:
         print(fore.RED + "Invalid choice!")
         next_turn(player, check_survive=False)

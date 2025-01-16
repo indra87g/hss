@@ -1,6 +1,6 @@
 site_name: Human Survival Simulator
 docs_dir: 'docs'
-repo_url: https://github.com/indra87/human-survival-simulator
+repo_url: https://github.com/indra87/hss
 
 nav:
   - Introduction: 'index.md'
